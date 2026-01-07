@@ -71,7 +71,7 @@ Created for academic research and hands-on learning in the field of Systems Prog
 Indraprastha Institute of Information Technology, Delhi
 
 - 📧 Email: dhruv24188@iiitd.ac.in
-- 💼 LinkedIn: [linkedin.com/in/dhruv-agarwal-8198b8213/]((https://www.linkedin.com/in/dhruv-agarwal-8198b8213/))
+- 💼 LinkedIn: [https://www.linkedin.com/in/dhruv-agarwal-8198b8213/]((https://www.linkedin.com/in/dhruv-agarwal-8198b8213/))
 - 🐙 GitHub: [github.com/Dhruv12Agarwal](https://github.com/Dhruv12Agarwal)
 
 ---
